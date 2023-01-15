@@ -1,0 +1,2 @@
+# Chocolate-Diffusion
+卒業研究用のレポジトリ．Diffusion Modelを自作データセットでFine-tuningして出来た画像と使用したコードをアップロードする場所．
